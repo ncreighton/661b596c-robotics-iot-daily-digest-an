@@ -1,2 +1,28 @@
-# 661b596c-robotics-iot-daily-digest-an
-robotics iot professionals waste hours on missing messages, manually responding to routine requests at all hours. This fixes that.  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Robotics &amp; Iot Daily Digest And Alerts — fully configured an
+# Robotics & IoT Daily Digest and Alerts Telegram Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI8wP26He2McVW47qcZx0I)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI8wP26He2McVW47qcZx0I)
+
